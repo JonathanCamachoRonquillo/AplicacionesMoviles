@@ -1,2 +1,2 @@
 # AplicacionesMoviles
-Repositorio de aplicaciones android.
+Aplicación android: Google Maps con consumo de api.
